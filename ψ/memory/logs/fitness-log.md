@@ -43,8 +43,8 @@
 - **Notes**: Tank almost went to bed without eating. Promised back day + 2 pizzas tomorrow (March 30).
 
 ### 2026-04-01
-- **Meals**: Breakfast ~11:30 — ข้าวชาหมูยูนนาน (braised pork yunnan + rice + egg, 1 box, finished clean), ข้าวหน้าไก่ราชวงศ์ x2 (buy 1 get 1, ate partial — chicken only, left rice), 300ml lactose-free milk. GrabFood from ข้าวชาหมูยูนาน shop. Est: ~850cal, ~50g protein. Portions small, milk helped.
-- **Gym**: Rest day — first free day after last day at job (March 31). Switzerland trip April 3.
+- **Meals**: Breakfast ~11:30 — ข้าวชาหมูยูนนาน (braised pork yunnan + rice + egg, 1 box, finished clean), ข้าวหน้าไก่ราชวงศ์ x2 (buy 1 get 1, ate partial — chicken only, left rice), 300ml lactose-free milk. GrabFood from ข้าวชาหมูยูนาน shop. Est: ~850cal, ~50g protein. Portions small, milk helped. Lunch ~15:00 — S&P: shrimp fried rice (~600cal, 20g pro), แกงเหลืองปลากระพง yellow curry sea bass (~300cal, 30g pro), americano (~10cal). Est: ~910cal, ~50g protein. Dinner ~20:00 — morning glory with mince pork (~250cal, 15g pro), Thai omelette with pork (~350cal, 20g pro), sea bass stir-fried with black pepper (~300cal, 30g pro), rice 200g (~260cal, 5g pro). Est: ~1160cal, ~70g protein. Post-gym: 2 scoops iso whey (~240cal, 50g pro). Daily total: ~3160cal, ~220g protein. CRUSHED IT.
+- **Gym**: CHEST DAY — Day 2 back! Bro Split Week 21. 55min. Incline Chest Press 130kg 8/8/6, Lateral Raises 14kg 8/8/8, Chest Press 190lbs 8/7/4, Tricep Pushdowns 60lbs 8/7/5, Butterfly 150lbs 8/7/6, Preacher Curls 36-41kg 8/8/7. 6 exercises. Logged on Forge ~21:58 GMT+7.
 - **Notes**: First day between jobs. Gear: HCG injected this morning. Peak bulk photos reviewed (Oct-Jan ~119kg) — used as motivation target. Goal confirmed: 130kg bear mode.
 
 ### 2026-03-30
