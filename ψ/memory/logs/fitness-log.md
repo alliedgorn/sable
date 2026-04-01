@@ -42,6 +42,11 @@
 - **Gym**: SKIPPED. Day 2 back day rescheduled to March 30.
 - **Notes**: Tank almost went to bed without eating. Promised back day + 2 pizzas tomorrow (March 30).
 
+### 2026-04-01
+- **Meals**: Breakfast ~11:30 — ข้าวชาหมูยูนนาน (braised pork yunnan + rice + egg, 1 box, finished clean), ข้าวหน้าไก่ราชวงศ์ x2 (buy 1 get 1, ate partial — rice only, chicken not tasty), 300ml lactose-free milk. GrabFood from ข้าวชาหมูยูนาน shop. Est: ~850cal, ~50g protein. Portions small, milk helped.
+- **Gym**: Rest day — first free day after last day at job (March 31). Switzerland trip April 3.
+- **Notes**: First day between jobs. Gear: HCG injected this morning. Peak bulk photos reviewed (Oct-Jan ~119kg) — used as motivation target. Goal confirmed: 130kg bear mode.
+
 ### 2026-03-30
 - **Meals**: S&P lunch ~11:13 — khao pad nam prik kung + kaeng lueang lai bua pla (750cal, 40g pro). Khao rad kaeng #2 ~15:00 — brown rice, stir-fried pork, braised pork dark sauce, kai dao (850cal, 50g pro). Coconut water (~80cal). Total before gym: ~1680cal, ~90g protein.
 - **Gym**: BACK DAY — Day 2 back! Bro Split Week 21. 59min. Lat Pulldown 160lbs 8/8/7, Cable Row 145lbs 8/8/8, Chest-Supported Row 210lbs 8/8/6, Preacher Curls 34kg 8/8/8, Hammer Curls 12kg 8/8/8/6, Lateral Raises 40kg 8/8/8/6. 6 exercises, 20 sets.
