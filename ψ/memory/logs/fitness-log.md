@@ -43,7 +43,7 @@
 - **Notes**: Tank almost went to bed without eating. Promised back day + 2 pizzas tomorrow (March 30).
 
 ### 2026-04-01
-- **Meals**: Breakfast ~11:30 — ข้าวชาหมูยูนนาน (braised pork yunnan + rice + egg, 1 box, finished clean), ข้าวหน้าไก่ราชวงศ์ x2 (buy 1 get 1, ate partial — rice only, chicken not tasty), 300ml lactose-free milk. GrabFood from ข้าวชาหมูยูนาน shop. Est: ~850cal, ~50g protein. Portions small, milk helped.
+- **Meals**: Breakfast ~11:30 — ข้าวชาหมูยูนนาน (braised pork yunnan + rice + egg, 1 box, finished clean), ข้าวหน้าไก่ราชวงศ์ x2 (buy 1 get 1, ate partial — chicken only, left rice), 300ml lactose-free milk. GrabFood from ข้าวชาหมูยูนาน shop. Est: ~850cal, ~50g protein. Portions small, milk helped.
 - **Gym**: Rest day — first free day after last day at job (March 31). Switzerland trip April 3.
 - **Notes**: First day between jobs. Gear: HCG injected this morning. Peak bulk photos reviewed (Oct-Jan ~119kg) — used as motivation target. Goal confirmed: 130kg bear mode.
 
