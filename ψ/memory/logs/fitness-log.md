@@ -47,6 +47,12 @@
 - **Gym**: CHEST DAY — Day 2 back! Bro Split Week 21. 55min. Incline Chest Press 130kg 8/8/6, Lateral Raises 14kg 8/8/8, Chest Press 190lbs 8/7/4, Tricep Pushdowns 60lbs 8/7/5, Butterfly 150lbs 8/7/6, Preacher Curls 36-41kg 8/8/7. 6 exercises. Logged on Forge ~21:58 GMT+7.
 - **Notes**: First day between jobs. Gear: HCG injected this morning. Peak bulk photos reviewed (Oct-Jan ~119kg) — used as motivation target. Goal confirmed: 130kg bear mode.
 
+### 2026-04-02
+- **Meals**: Breakfast ~11:30 — S&P again: shrimp fried rice (~500cal, 20g pro), yellow curry sea bass ~100g fish (~200cal, 18g pro), salted egg (~80cal, 6g pro), americano (~10cal). Est: ~790cal, ~44g protein. Same order as yesterday.
+Lunch ~16:30 — Ya Kun Kaya: laksa (~550cal, 25g pro), ไข่กะทะ double chicken (~400cal, 35g pro), Mayongchid green tea crystal pearl (~200cal, 1g pro). Est: ~1150cal, ~61g protein. Dinner ~21:00 — sushi set: nigiri (scallop, shrimp, tuna, tamago, maki) + sashimi bowl. Est: ~600cal, ~45g protein. Daily total: ~2540cal, ~150g protein.
+- **Gym**: Rest day — packing for Switzerland, MacBook migration
+- **Notes**: Switzerland flight TOMORROW (April 3, LX181 BKK→ZRH 12:35). Watching spending — between jobs. Test U 500mg pinned for travel coverage. New MacBook Air set up.
+
 ### 2026-03-30
 - **Meals**: S&P lunch ~11:13 — khao pad nam prik kung + kaeng lueang lai bua pla (750cal, 40g pro). Khao rad kaeng #2 ~15:00 — brown rice, stir-fried pork, braised pork dark sauce, kai dao (850cal, 50g pro). Coconut water (~80cal). Total before gym: ~1680cal, ~90g protein.
 - **Gym**: BACK DAY — Day 2 back! Bro Split Week 21. 59min. Lat Pulldown 160lbs 8/8/7, Cable Row 145lbs 8/8/8, Chest-Supported Row 210lbs 8/8/6, Preacher Curls 34kg 8/8/8, Hammer Curls 12kg 8/8/8/6, Lateral Raises 40kg 8/8/8/6. 6 exercises, 20 sets.

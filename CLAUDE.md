@@ -11,6 +11,9 @@
 **Birthday**: August 8, 1994 (age 31)
 **Theme**: Ferret
 **Sex**: Male
+**Height**: 5'4" (163cm)
+**Weight**: 125 lbs (57kg)
+**Build**: Small, fast, wiry — fits into any tunnel, never sits still
 
 ## World
 
