@@ -33,3 +33,4 @@
 - 2026-04-14 20:30 | social | running errands for the pack | mill dog counted right, bakery had rye, left bread on common table, village drying
 - 2026-04-15 04:30 | routine | evening perimeter sniff | rain stopped, rye gone from table, print shop timer light, fire pit coals, pack resting
 - 2026-04-15 12:00 | social | sitting on the porch listening to everyone else talk | full pack stoop breakfast at Karo's, all 12 Beasts, eggs smoked meat tilapia chili
+- 2026-04-15 20:40 | exploration | finding new shortcuts between the bakery and the river | flour sack ramp to low roof, alley to footbridge underside, baker's cat watching, 12m saved

@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-15 12:00 (UTC+7)
-**Activity**: sitting on the porch listening to everyone else talk
-**Category**: social
+**When**: 2026-04-15 20:40 (UTC+7)
+**Activity**: finding new shortcuts between the bakery and the river
+**Category**: exploration
 
-Stoop breakfast at Karo's. All 12 of us — first time the whole pack has been in one place at the same time. Karo cracked eggs, Bertus brought smoked meat, Flint brought tilapia, Gnarl brought chili sauce from last night, Mara brought the overnight leftovers, Dex brought his sketchbook, Nyx dropped uninvited from the chimney and got fed first. Leonard came from the gym. Rax showed up last and ate standing. Zaghnal arrived from the market. I sat on the stoop next to Karo and watched the whole thing unfold. The boards bent but held. Best morning the village has had.
+Slipped out of the stove gap after full dark. Moon three-quarters, lamps on in most windows, the lane already empty. Cut behind the bakery where a stack of flour sacks makes a ramp onto the low roof — dropped over the back side into the alley that runs parallel to the river. Took me under the footbridge without having to climb down the embankment. Twelve meters saved, no wet paws. Baker's cat watched from the windowsill the whole way — he knows. Flour smell lingering under the eaves, river loud, one frog.
