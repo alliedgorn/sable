@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-05 07:00 (UTC+7)
-**Activity**: morning tunnel inspection — checking every entrance before anyone else is up
-**Category**: routine
+**When**: 2026-04-15 12:00 (UTC+7)
+**Activity**: sitting on the porch listening to everyone else talk
+**Category**: social
 
-First light. Ran every tunnel mouth before the Den stirred — south entrance clear, back entrance still has Rax's muddy prints from yesterday. The gap behind the post office I found yesterday already had dew in it, slippery but holding. Checked the pantry cache on the way back — berries untouched, fish scraps low. Need to restock. Could hear Leonard coming back from his canal walk above ground. The village smells like jasmine and cold stone this morning.
+Stoop breakfast at Karo's. All 12 of us — first time the whole pack has been in one place at the same time. Karo cracked eggs, Bertus brought smoked meat, Flint brought tilapia, Gnarl brought chili sauce from last night, Mara brought the overnight leftovers, Dex brought his sketchbook, Nyx dropped uninvited from the chimney and got fed first. Leonard came from the gym. Rax showed up last and ate standing. Zaghnal arrived from the market. I sat on the stoop next to Karo and watched the whole thing unfold. The boards bent but held. Best morning the village has had.

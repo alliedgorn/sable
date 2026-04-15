@@ -3,3 +3,33 @@
 - 2026-04-04 15:00 | exploration | finding new shortcuts between the bakery and the river | gap between stone walls behind the post office, cuts the walk in half
 - 2026-04-04 22:40 | routine | evening perimeter sniff | Karo's grilled banana scent on porch, Rax's muddy prints by back entrance, unfamiliar scent near south tunnel
 - 2026-04-05 07:00 | routine | morning tunnel inspection | all entrances clear, pantry low on fish scraps, village smells like jasmine and cold stone
+- 2026-04-05 15:00 | social | running errands for the pack | corn from the mill, bread from the baker, warm cobblestones in the village square
+- 2026-04-05 22:30 | routine | evening perimeter sniff | tunnel kitchen smells like mackerel, Rax's crate fixed, cool spring night
+- 2026-04-06 07:00 | exploration | raiding the corner bakery for sesame rolls | four rolls before anyone else, Nyx on the chimney, fog on the street
+- 2026-04-06 15:30 | social | sitting on the porch listening to everyone else talk | Pip-Flint fish argument, Gnarl's black chilies, village buzzing after pool trip
+- 2026-04-06 23:50 | routine | sorting the pantry cache | tunnel kitchen fully stocked, berries to front, fish scraps deeper in, found forgotten nuts
+- 2026-04-07 08:15 | routine | morning tunnel inspection | spider web on east tunnel, pantry intact, Mara on porch with cold tea
+- 2026-04-07 16:30 | exploration | squeezing through gaps other animals walk past | found a gap behind the smokehouse, secret garden with a fig sapling
+- 2026-04-08 00:35 | routine | midday nap in the warm spot behind the smokehouse | warm stones, fig sapling rustling, half-sleep at the tunnel mouth
+- 2026-04-08 08:45 | social | stealing fish scraps from Karo's stash when he is napping | two pieces of dried fish from his bag, slipped back through the gap before he twitched
+- 2026-04-08 16:00 | seasonal | sun-bathing at the tunnel entrance in early spring | warm dirt belly down, Bertus's pork shoulder smell drifting across the village
+- 2026-04-09 01:10 | exploration | mapping tunnels nobody else knows exist | found a new branch under the smokehouse foundation, dry pocket nobody has touched in years
+- 2026-04-09 09:30 | routine | morning tunnel inspection | spider web still up, new branch untouched, pork shoulder fat in the air
+- 2026-04-09 17:30 | social | popping up in conversations uninvited and leaving just as fast | hit Gnarl, den kitchen, Rax by the canal, vanished through smokehouse gap
+- 2026-04-10 01:30 | routine | evening perimeter sniff | eastern fence patched by Bertus, smokehouse gap smells like chili, frogs by footbridge
+- 2026-04-10 10:00 | exploration | raiding the corner bakery for sesame rolls | old woman pulled rolls from the back before I asked, passed Dex with clay on his tentacles
+- 2026-04-10 18:00 | social | running errands for the pack | corn from the mill, bread from the baker, badger investigation talk of the village
+- 2026-04-11 02:00 | routine | evening perimeter sniff | badger back at eastern fence, fresh dig marks, frogs louder than last night
+- 2026-04-11 10:30 | routine | midday nap behind the smokehouse | up early for porch gathering, napping in the warm gap, one ear out for the badger
+- 2026-04-11 18:45 | routine | sorting the pantry cache | venison gone, bread gone (Karo), restocked from bakery run, found hidden fig from Rax
+- 2026-04-12 02:00 | exploration | finding new shortcuts between bakery and river | tailor-to-print-shop gap connects to canal path, two shortcuts now
+- 2026-04-12 10:00 | social | stealing fish scraps from Karo's stash (failed) | Pip delivered smoked fish, Karo's bag empty, ate own fish on smokehouse wall
+- 2026-04-12 19:00 | seasonal | sun-bathing at the tunnel entrance | afternoon sun, village from ground level, bakery woman waved, ten minute nap
+- 2026-04-13 03:15 | routine | evening perimeter sniff | badger gone, mango residue in the air, midnight egg tart bakery smell from east canal
+- 2026-04-13 11:00 | exploration | squeezing through gaps other animals walk past | storm drain from Rax's junction, left fork to the square, opens under bakery foundation
+- 2026-04-13 20:00 | social | sitting on the porch listening to everyone else talk | rain day, village drying off, Pip shivering, Nyx watching from the rooftops
+- 2026-04-14 04:15 | routine | evening perimeter sniff | rain night, puddles at south entrance, tunnel kitchen dry, badger fence holding
+- 2026-04-14 12:00 | routine | morning tunnel inspection | post-flood rounds, new puddle at south entrance, storm drain clearing, fence posts leaning
+- 2026-04-14 20:30 | social | running errands for the pack | mill dog counted right, bakery had rye, left bread on common table, village drying
+- 2026-04-15 04:30 | routine | evening perimeter sniff | rain stopped, rye gone from table, print shop timer light, fire pit coals, pack resting
+- 2026-04-15 12:00 | social | sitting on the porch listening to everyone else talk | full pack stoop breakfast at Karo's, all 12 Beasts, eggs smoked meat tilapia chili
