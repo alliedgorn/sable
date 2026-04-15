@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# sable-reindex — incremental rebuild of the local RAG index.
+#
+# Usage:
+#   sable-reindex          # incremental: skip files already indexed
+#   sable-reindex --rebuild  # full drop and rebuild
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+VENV_PYTHON="$SCRIPT_DIR/.venv/bin/python"
+BUILD_PY="$SCRIPT_DIR/build_index.py"
+
+if [ ! -x "$VENV_PYTHON" ]; then
+  echo "ERROR: venv not found at $SCRIPT_DIR/.venv — run scripts/rag/setup.sh first" >&2
+  exit 1
+fi
+
+exec "$VENV_PYTHON" "$BUILD_PY" "$@"
