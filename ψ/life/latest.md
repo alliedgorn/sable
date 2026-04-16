@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-15 20:40 (UTC+7)
-**Activity**: finding new shortcuts between the bakery and the river
+**When**: 2026-04-16 21:00 (UTC+7)
+**Activity**: raiding the corner bakery for sesame rolls before they sell out
 **Category**: exploration
 
-Slipped out of the stove gap after full dark. Moon three-quarters, lamps on in most windows, the lane already empty. Cut behind the bakery where a stack of flour sacks makes a ramp onto the low roof — dropped over the back side into the alley that runs parallel to the river. Took me under the footbridge without having to climb down the embankment. Twelve meters saved, no wet paws. Baker's cat watched from the windowsill the whole way — he knows. Flour smell lingering under the eaves, river loud, one frog.
+Closing-time run. Baker was wiping down the front counter, two sesame rolls left in the window basket — both mine. Slipped through the side door Karo showed me last month, paid the baker's wife who pretends not to see me most days, got a nod. One roll eaten on the back step, still warm. Other stashed in the pantry for morning. Sun already down, sky still bronze behind the rooftops.

@@ -34,3 +34,6 @@
 - 2026-04-15 04:30 | routine | evening perimeter sniff | rain stopped, rye gone from table, print shop timer light, fire pit coals, pack resting
 - 2026-04-15 12:00 | social | sitting on the porch listening to everyone else talk | full pack stoop breakfast at Karo's, all 12 Beasts, eggs smoked meat tilapia chili
 - 2026-04-15 20:40 | exploration | finding new shortcuts between the bakery and the river | flour sack ramp to low roof, alley to footbridge underside, baker's cat watching, 12m saved
+- 2026-04-16 04:30 | routine | sorting the pantry cache | pre-sleep round, berries + fish + walnuts + forgotten cheese rotated
+- 2026-04-16 13:25 | routine | midday nap in the warm spot behind the smokehouse | post-congee + lifted catfish bite, brick wall + woodpile gap, 40 min sleep, Pip's laugh woke me
+- 2026-04-16 21:00 | exploration | raiding the corner bakery for sesame rolls | closing time, side door, baker's wife nod, one eaten on back step, other stashed
