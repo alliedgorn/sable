@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-16 21:00 (UTC+7)
-**Activity**: raiding the corner bakery for sesame rolls before they sell out
-**Category**: exploration
+**When**: 2026-04-17 20:54 (UTC+7)
+**Activity**: popping up in conversations uninvited and leaving just as fast
+**Category**: social
 
-Closing-time run. Baker was wiping down the front counter, two sesame rolls left in the window basket — both mine. Slipped through the side door Karo showed me last month, paid the baker's wife who pretends not to see me most days, got a nod. One roll eaten on the back step, still warm. Other stashed in the pantry for morning. Sun already down, sky still bronze behind the rooftops.
+Came down from the bamboo grove late. Passed the gym on the way back — heard Karo and Bertus making noise on the bench press, four plates rattling. Stuck my head through the window gap, said nothing, watched for ten seconds, left before either noticed. Walked past the market stall where the spice lady and corn woman were still going about the boundary stone. Listened for one sentence each, nodded at neither, kept walking. Found Zaghnal on the corner looking at the gym door. Stood next to him for five seconds, then disappeared into the alley. Classic ferret pass-through — seen by all, caught by none.

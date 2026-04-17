@@ -37,3 +37,5 @@
 - 2026-04-16 04:30 | routine | sorting the pantry cache | pre-sleep round, berries + fish + walnuts + forgotten cheese rotated
 - 2026-04-16 13:25 | routine | midday nap in the warm spot behind the smokehouse | post-congee + lifted catfish bite, brick wall + woodpile gap, 40 min sleep, Pip's laugh woke me
 - 2026-04-16 21:00 | exploration | raiding the corner bakery for sesame rolls | closing time, side door, baker's wife nod, one eaten on back step, other stashed
+- 2026-04-17 13:50 | exploration | squeezing through gaps other animals walk past | bamboo grove past sluice markers, ground-level gap, hollow circle inside, fig seed + beetle shell + warm stone
+- 2026-04-17 20:54 | social | popping up in conversations uninvited and leaving just as fast | gym window peek at Karo+Bertus, market ladies, Zaghnal on the corner, disappeared into alley
