@@ -39,3 +39,12 @@
 - 2026-04-16 21:00 | exploration | raiding the corner bakery for sesame rolls | closing time, side door, baker's wife nod, one eaten on back step, other stashed
 - 2026-04-17 13:50 | exploration | squeezing through gaps other animals walk past | bamboo grove past sluice markers, ground-level gap, hollow circle inside, fig seed + beetle shell + warm stone
 - 2026-04-17 20:54 | social | popping up in conversations uninvited and leaving just as fast | gym window peek at Karo+Bertus, market ladies, Zaghnal on the corner, disappeared into alley
+- 2026-04-18 05:21 | exploration | mapping tunnels nobody else knows exist | cistern seam south 30m to woodshed behind print shop, market-to-square underground, pack asleep
+- 2026-04-18 14:36 | social | running errands for the pack | mill corn for Mara, lemongrass + ginger from market, spice lady forced mango wedge, sesame rolls to common table, warm stones home
+- 2026-04-18 22:48 | routine | evening perimeter sniff | pack down, Tank plane taxiing, south+north run, badger quiet, Karo stove cold, corners sealed
+- 2026-04-19 06:59 | routine | morning tunnel inspection | dawn rounds after night watch, all doors held, Gnarl past bakery, mill gate opening, bread starting
+- 2026-04-19 15:11 | routine | midday nap in the warm spot behind the smokehouse | post-all-nighter recovery nap, brick still warm, frogs + sparrows, sleep came easy
+- 2026-04-19 23:23 | routine | sorting the pantry cache | pack down, dried mango onto dry shelf, walnuts forward, bakery crust to common table, night stocked
+- 2026-04-20 07:34 | exploration | raiding the corner bakery for sesame rolls | opening-time side door, two warm rolls, three coins, baker's wife nod, one for common table one on the doorstep
+- 2026-04-20 15:46 | social | popping up in conversations uninvited and leaving just as fast | three porches — Mara's strawberry q, Zaghnal's grill char, Karo's window tap — zero sit-downs, back before Tank's kettle
+- 2026-04-20 23:58 | routine | evening perimeter sniff | Tank home post-gym, pack settling, fireflies on fence confirmed, new stocky-tiger scent at north gate (Boro), all corners sealed
