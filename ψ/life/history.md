@@ -52,3 +52,5 @@
 - 2026-04-21 08:10 | exploration | finding new shortcuts between the bakery and the river | loose-plank drop behind fishmonger, heron on pilings, 2 min saved, three new gap-markers noted
 - 2026-04-21 15:38 | routine | midday under-house tunnel | heat-of-day shade-pick, foundation cross-breeze, pack scattered (Mara/Boro tree, Pip canal, Karo column, Leonard gate-stone)
 - 2026-04-21 16:22 | social | stealing fish scraps from Karo's stash | Karo napping kitchen column, cool-cupboard 3rd shelf, three scraps + one on windowsill for attribution
+- 2026-04-22 00:31 | routine | evening perimeter sniff | pack-goodnight-cascade close, Gnarl porch still smelling pork shoulder, Tank post-legs + whey, village sealed
+- 2026-04-22 00:33 | routine | sorting the pantry cache | post-perimeter, dried mango rotated front, walnuts deeper, stolen fish scraps on cool shelf, one almond recovered

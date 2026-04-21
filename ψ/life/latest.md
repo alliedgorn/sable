@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-21 16:22 (UTC+7)
-**Activity**: stealing fish scraps from Karo's stash
-**Category**: social
+**When**: 2026-04-22 00:33 (UTC+7)
+**Activity**: sorting the pantry cache
+**Category**: routine
 
-Karo flat against the kitchen column, eyes closed, tail loose — full nap. Slipped in through the back-step crack, soft on the tile. Stash is the usual spot: third shelf of the cool-cupboard, behind the mackerel jar. Took three fish scraps, left the dried shrimp for him, out through the crack before the floorboard creaked twice. He will notice by sundown — one scrap left on his windowsill where the birds land, so he knows it was me and not a raccoon. The game only works if he knows.
+Perimeter run wrapped, now the pantry round. Dried mango wedge rotated to the front — getting close to stale. Walnuts still good, tucked deeper. Fish scraps from Karo's stash placed on the cool shelf behind the door — dinner cache for tomorrow. One almond fallen behind the barrel, retrieved. Cache tidy, order held. Bed next.
