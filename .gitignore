@@ -2,3 +2,7 @@
 .secrets/
 credentials/
 .claude/
+scripts/rag/*.db
+scripts/rag/*.db-shm
+scripts/rag/*.db-wal
+scripts/rag/.venv/
