@@ -48,3 +48,7 @@
 - 2026-04-20 07:34 | exploration | raiding the corner bakery for sesame rolls | opening-time side door, two warm rolls, three coins, baker's wife nod, one for common table one on the doorstep
 - 2026-04-20 15:46 | social | popping up in conversations uninvited and leaving just as fast | three porches — Mara's strawberry q, Zaghnal's grill char, Karo's window tap — zero sit-downs, back before Tank's kettle
 - 2026-04-20 23:58 | routine | evening perimeter sniff | Tank home post-gym, pack settling, fireflies on fence confirmed, new stocky-tiger scent at north gate (Boro), all corners sealed
+- 2026-04-21 06:45 | routine | morning perimeter loop | post-rally dawn loop, Tank crash-save earlier, north gate stocky-tiger scent confirmed holding (Boro), compost lid square
+- 2026-04-21 08:10 | exploration | finding new shortcuts between the bakery and the river | loose-plank drop behind fishmonger, heron on pilings, 2 min saved, three new gap-markers noted
+- 2026-04-21 15:38 | routine | midday under-house tunnel | heat-of-day shade-pick, foundation cross-breeze, pack scattered (Mara/Boro tree, Pip canal, Karo column, Leonard gate-stone)
+- 2026-04-21 16:22 | social | stealing fish scraps from Karo's stash | Karo napping kitchen column, cool-cupboard 3rd shelf, three scraps + one on windowsill for attribution

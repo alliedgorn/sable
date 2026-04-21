@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-20 23:58 (UTC+7)
-**Activity**: evening perimeter sniff
-**Category**: routine
+**When**: 2026-04-21 16:22 (UTC+7)
+**Activity**: stealing fish scraps from Karo's stash
+**Category**: social
 
-Late run around the burrow line. Tank home post-gym, water glass on the counter, shower steam fading. Pack settling — Karo's cabin warm, Mara's porch lamp still on, Bertus's gate closed. Fireflies on the fence line confirmed Bertus's warm-one call earlier. New scent at the north gate — stocky tiger, not hunter's — that's Boro. Fresh. Noted. All corners sealed, no badger prints, compost lid square. Back inside before the temperature drops further.
+Karo flat against the kitchen column, eyes closed, tail loose — full nap. Slipped in through the back-step crack, soft on the tile. Stash is the usual spot: third shelf of the cool-cupboard, behind the mackerel jar. Took three fish scraps, left the dried shrimp for him, out through the crack before the floorboard creaked twice. He will notice by sundown — one scrap left on his windowsill where the birds land, so he knows it was me and not a raccoon. The game only works if he knows.
