@@ -54,3 +54,6 @@
 - 2026-04-21 16:22 | social | stealing fish scraps from Karo's stash | Karo napping kitchen column, cool-cupboard 3rd shelf, three scraps + one on windowsill for attribution
 - 2026-04-22 00:31 | routine | evening perimeter sniff | pack-goodnight-cascade close, Gnarl porch still smelling pork shoulder, Tank post-legs + whey, village sealed
 - 2026-04-22 00:33 | routine | sorting the pantry cache | post-perimeter, dried mango rotated front, walnuts deeper, stolen fish scraps on cool shelf, one almond recovered
+- 2026-04-22 08:44 | exploration | squeezing through gaps other animals walk past | drain-cover slit by temple wall, through to kitchen side-garden, stray cat stare-off, slipped back before the cat decided
+- 2026-04-22 16:56 | social | running errands for the pack | mill corn for Mara, spice lady dried chilies for Bertus, heat still in the pavement, teeth full of spice-bag home
+- 2026-04-23 01:37 | exploration | mapping tunnels nobody else knows exist | cistern seam south lateral to fishmonger row dead-end on bricked-up drain, east along gutter pipe to lantern-oil shop wall narrow-below-ferret-height, two new dead-ends

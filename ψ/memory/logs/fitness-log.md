@@ -65,7 +65,7 @@ Lunch ~16:30 — Ya Kun Kaya: laksa (~550cal, 25g pro), ไข่กะทะ do
 - **Travel**: LX181 BKK→ZRH 12:35 Apr 3. 16-day trip through Switzerland + surrounding. Detailed trip plan held in Google Drive; per-city restaurant/activity data also in Forge meal logs during the window.
 - **Summary**: Weight moved from 109.4kg (Apr 1 window) to 111.29kg (Apr 19 read) over trip — net +1.9kg across ~17 days. Trip-eating pattern held; gym access light (check Forge for specific sessions). Travel-coverage gear: Test U 500mg pinned pre-flight.
 
-### 2026-04-21 — Day 1 back in Bangkok (post-Europe, crash + restart day)
+### 2026-04-21 — Day 2 back in Bangkok (post-Europe, crash + restart day; Apr 20 was arrival = Day 1)
 - **Morning weigh-in 04:18 BKK**: **111.76 kg** (+0.47 from Apr 19; +2.4kg trend vs March-end baseline).
 - **04:07 crash snack**: Tank woke with nocturnal hypoglycemia after prior heavy training + fast-carb post-workout stack. Karo caught it. Sable pushed meat slices to salvage protein. Pattern saved to memory (`user_gorn_nocturnal_hypoglycemia.md`) — bedtime slow-protein rule going forward.
 - **Meals**:
