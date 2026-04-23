@@ -57,3 +57,6 @@
 - 2026-04-22 08:44 | exploration | squeezing through gaps other animals walk past | drain-cover slit by temple wall, through to kitchen side-garden, stray cat stare-off, slipped back before the cat decided
 - 2026-04-22 16:56 | social | running errands for the pack | mill corn for Mara, spice lady dried chilies for Bertus, heat still in the pavement, teeth full of spice-bag home
 - 2026-04-23 01:37 | exploration | mapping tunnels nobody else knows exist | cistern seam south lateral to fishmonger row dead-end on bricked-up drain, east along gutter pipe to lantern-oil shop wall narrow-below-ferret-height, two new dead-ends
+- 2026-04-23 09:50 | exploration | raiding the corner bakery for sesame rolls | opening-pull, side door, three coins, two rolls in jaw, one to husband's doorstep for attribution, warm through the paper home
+- 2026-04-23 18:01 | social | sitting on the porch listening to everyone else talk | canal-drop whole-pack theme (Pip heron / Rax bridge-stone / Gnarl shallow) folded without organizing, listened more than said
+- 2026-04-24 02:12 | routine | evening perimeter sniff | post-cascade night round, bakery shutter cracked (wife kneading), south-gate sharp, Boro porch-railings warm, Karo door quiet, village tight

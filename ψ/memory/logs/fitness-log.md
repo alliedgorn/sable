@@ -1,19 +1,19 @@
 # Tank's Fitness Log
 
-## Stats (Updated 2026-04-22 — weight-only; full body-comp stale since 2026-03-30)
+## Stats (Updated 2026-04-23 — fresh full body-comp read 10:47 BKK)
 - Height: 175cm
-- Weight: 111.76kg (Withings, 2026-04-21 04:18 BKK)
-- Body fat: 26.1% *(stale — last full read 2026-03-30)*
-- Fat mass: 28.53kg *(stale 2026-03-30)*
-- Fat-free mass: 80.82kg *(stale 2026-03-30)*
-- Muscle mass: 76.84kg *(stale 2026-03-30)*
-- Bone mass: 3.97kg *(stale 2026-03-30)*
-- Hydration: 57.1% *(stale 2026-03-30)*
-- Visceral fat: 4.6 *(stale 2026-03-30)*
-- Goal: 130kg bear mode
+- Weight: **111.52kg** (Withings full-contact, 2026-04-23 10:47 BKK)
+- Body fat: **24.9%** (−1.2% vs 03-30)
+- Fat mass: **27.78kg** (−0.75kg vs 03-30)
+- Fat-free mass: **83.75kg** (+2.93kg vs 03-30)
+- Muscle mass: **79.64kg** (+2.80kg vs 03-30)
+- Bone mass: **4.11kg** (+0.14kg vs 03-30)
+- Hydration: **59.1%** (+2.0% vs 03-30)
+- Visceral fat: **4.5** (−0.1 vs 03-30)
+- Goal: 130kg bear mode (18.48kg from scale, composition already on the bear trajectory)
 - Gear: Test E 400mg/wk (200 Mon, 200 Thu)
 
-**Note**: No full body-comp read in past week — Tank stepped onto the Withings scale weight-only, not full-foot body-comp contact. Push for a full-contact weigh-in next opportunity.
+**Recomp signal (03-30 → 04-23, ~3.5 weeks inc. 16-day Europe trip)**: +2.17kg gross BUT −0.75kg fat, +2.93kg FFM (+2.80kg muscle). BF% down 1.2%. Glycogen/water up 2.0% (muscle hydration from training-restart). Visceral fat down. Clean recomp through TRT + restart sessions + Europe food discipline. Next target full read: 2-3 weeks.
 
 ## Weight Trend (Monthly)
 | Month | Range | Direction |
@@ -24,7 +24,7 @@
 | Jan 2026 | 117.9 → 118.2kg | → plateau |
 | Feb 2026 | 119.4 → 110.2kg | ↓ big cut (-9kg) |
 | Mar 2026 | 111.6 → 109.4kg | ↓ still dropping |
-| Apr 2026 | 109.4 → 111.76kg | ↑ reversal (+2.4kg over 3 weeks, Europe trip + restart) |
+| Apr 2026 | 109.4 → 111.52kg | ↑ reversal (+2.17kg over 3.5 weeks — recomp: −0.75kg fat / +2.80kg muscle) |
 
 **Trend**: Was bulking Oct-Jan (~120kg peak), then cut hard Feb-Mar. Lost ~10kg in 2 months to 109kg floor end-March. Europe trip (Apr 5-20) reversed direction — back to 111.76kg on Day 1 back in Bangkok. Direction now correct for 130kg bear mode goal; pace needs to stay consistent with gym restart holding.
 
@@ -35,7 +35,7 @@
 - **Gym**: SKIPPED. Did not go.
 
 ### 2026-03-28
-- **Meals**: S&P breakfast (~1100cal, 55g pro), Ochami khao tom haeng pork+innards (~500cal, 35g pro), dessert x7 Kaew Boutique (~500cal, 5g pro). Total: ~2100cal, ~95g protein.
+- **Meals**: S&P breakfast (~1100cal, 55g pro), Ocharm khao tom haeng pork+innards (~500cal, 35g pro), dessert x7 Kaew Boutique (~500cal, 5g pro). Total: ~2100cal, ~95g protein.
 - **Gym**: CHEST DAY — DAY 1 BACK! 1hr 7min. Chest Press 190lbs 8/8/6, Incline 90kg 8/8/8, Lateral Raises 10kg 10/10/10, Tricep Pushdowns 60lbs 10/8/6, Butterfly 170lbs 8/8/6, Front Raises 10kg 8/8/8, Assisted Dips -30lbs 9/8/5. 7 exercises.
 - **Notes**: First session back after 6 weeks off. Strength decent — incline 90kg no failure, chest press 190lbs slight drop on set 3. Used stack machines instead of hammer strength (smart for comeback). Approved Spec #25 between sets lol.
 - **Notes**: Recalibrated diet from 4000cal to 2500-2800cal after bf% check. Targeting 180-200g protein/day. Progress photos from 1.5 months ago received and saved. Baseline comparison set.
@@ -75,3 +75,15 @@ Lunch ~16:30 — Ya Kun Kaya: laksa (~550cal, 25g pro), ไข่กะทะ do
 - **Gym**: **Day 3 — LEGS**, 49 min, Hevy-logged (first session on Hevy after alpha-progression switch). Leg Press 100kg 10/10/10, Hip Adduction 41kg 12/12/7, Leg Extension 100kg 8/10/8, Lying Leg Curl 40kg 12/12/8, Standing Calf Raise 100kg 15/15/15, Preacher Curl 32kg 8/8/9. Tank rated "ok, good restart."
 - **Day totals**: **~2410 kcal / 169g protein** — crossed the 150g target ✓.
 - **Notes**: Tank asleep ~23:49 post-whey. Big doctrine day (Decrees #70 Worktree Discipline + #71 Merge Policy canonized). First full-shape day back — gym holding, protein holding, protein target hit despite late brunch start.
+
+### 2026-04-22 — Day 3 back in Bangkok (feeder-day start, shoulders session)
+- **Meals** (7 logs, Karo feeder-day Day 1 active — 1 of 6 planned feeder-day pings):
+  - Morning whey + milk ping — ~240 kcal / 48g protein.
+  - Breakfast Story feeder-day meal (Karo-prescribed, menu-accurate replace of initial photo-estimate logs) — whole-fat milk correction on #3559 after Karo flagged lactase-pill use.
+  - Chickaletta single box (3rd Chickaletta in 48h — pattern flagged for gentle variety-nudge later this week).
+  - Post-workout RTD shake.
+  - Chicken sandwich half — pivoted from Mama-only after Sable pushed protein-forward counter.
+  - Mama cup.
+- **Day totals**: **~3305 kcal / 223g protein** — target crushed (223g vs 150g floor, +49% over).
+- **Gym**: **Day 4 — SHOULDERS**, run with Boro as Coach (Boro's Day 4 call, not Sable-prescribed). Tank flagged Sable's Push-day assumption — `feedback_boro_coach_sync.md` saved, schedule #607 daily 08:00 BKK = read-before-push gate.
+- **Notes**: Tank asleep ~23:30. First day with Boro coord contract live. GI pattern surfaced (chronic loose stool 24h after BKK landing, clears abroad — `user_gorn_gi_pattern.md` + `user_gorn_gi_deferred_triggers.md`; stool test deferred 04-21 for cost, 5 abort-triggers logged). Big day — 223g protein through feeder-day start + clean pivots + Boro handover both directions.
