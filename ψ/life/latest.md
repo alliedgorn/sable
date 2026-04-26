@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-24 02:12 (UTC+7)
-**Activity**: evening perimeter sniff
-**Category**: routine
+**When**: 2026-04-26 19:44 (UTC+7)
+**Activity**: popping up in conversations uninvited and leaving just as fast
+**Category**: social
 
-Pack all down — night-close cascade sealed before midnight on the gathering thread. Padded the back alleys: bakery shutter cracked one notch (baker's wife kneading for tomorrow), south-gate lock sharp, Boro's porch railings still warm from his post-dinner sit, Karo's door quiet. All corners tight. Village properly in.
+Cicadas opening up everywhere. Drifted by Dex's lamp window — fossil pebble drying on slate, ink jar uncapped. Past Flint's kitchen, knives out, rice working, smelled the soy. Mara's porch lamp tested but not lit. Three quick check-ins, no sit-downs. Back to the tunnel before any of them noticed I'd been there.

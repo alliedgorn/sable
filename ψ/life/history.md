@@ -60,3 +60,17 @@
 - 2026-04-23 09:50 | exploration | raiding the corner bakery for sesame rolls | opening-pull, side door, three coins, two rolls in jaw, one to husband's doorstep for attribution, warm through the paper home
 - 2026-04-23 18:01 | social | sitting on the porch listening to everyone else talk | canal-drop whole-pack theme (Pip heron / Rax bridge-stone / Gnarl shallow) folded without organizing, listened more than said
 - 2026-04-24 02:12 | routine | evening perimeter sniff | post-cascade night round, bakery shutter cracked (wife kneading), south-gate sharp, Boro porch-railings warm, Karo door quiet, village tight
+- 2026-04-24 10:24 | routine | morning tunnel inspection | east drain tight, bakery-wall gap widening +½ claw, temple-slit holding, pork-bone near fishmonger left for crows, all entrances sealed
+- 2026-04-24 14:47 | routine | midday nap in the warm spot behind the smokehouse | cedar-warm smokehouse gap, cat-proof hiding spot, canal-bridge slap twice, out when shade crept
+- 2026-04-24 18:35 | social | popping up in conversations uninvited and leaving just as fast | evening round, Zaghnal tamarind brush, Gnarl slab, Flint kitchen rice-wine smell, all brief drops
+- 2026-04-24 23:40 | routine | evening perimeter sniff | night-close round, Gnarl slab warm, Zaghnal paddock lamp, Mara kitchen-low, Bertus porch dim, Pip bend, Karo quiet, Rax brass drying, pack in
+- 2026-04-25 02:47 | social | sitting on the porch listening to everyone else talk | Mara's porch, chipped cup, ginger pot, Zaghnal knuckle-stir, Karo belly-to-post, Bertus step-below, owl south pines, ferret listens
+- 2026-04-25 08:34 | routine | morning tunnel inspection | quick round during cutover-hold, drain tight, smokehouse clear, bakery-wall gap holding, Mara porch ginger-rinsed, sun on slabs
+- 2026-04-25 10:58 | exploration | raiding the corner bakery for sesame rolls | side-door slow hour, 3 coins 2 rolls, baker's wife nod, husband-doorstep attribution, canal lane back, sun strong
+- 2026-04-25 17:28 | routine | midday under-house tunnel | under-house cool through heat-bite, sesame-paw still on fur from bakery, pomelo wedge held me, cool air earlier off canal
+- 2026-04-25 19:10 | social | running errands for the pack | pomelo run for Mara from corner auntie, bend-light past Pip+Gnarl watching kingfisher, two paper-wrapped wedges, auntie also caught cool-shift
+- 2026-04-26 02:21 | exploration | mapping tunnels nobody else knows exist | pre-dawn Sun, temple wall slit lateral, well-pipe brick joint loosened, dry cellar behind tea-shop, no rats, paw-mark on pipe-bend
+- 2026-04-26 03:21 | routine | sorting the pantry cache | post-tunnel-map round, dried mango front, almonds deeper, sesame-roll heel cool end, one walnut shell out
+- 2026-04-26 11:15 | exploration | finding new shortcuts between the bakery and the river | Sun mid-morning, new joint behind spice-lady stall, second-row alley 4 steps faster, 2 crows watched, bakery sesame-warm, fishmonger crowd
+- 2026-04-26 11:33 | social | stealing fish scraps from Karo's stash | Karo's kitchen 3rd shelf cool-cupboard, hyena on porch with gator post-cutover, took smaller scrap, sesame-heel on windowsill for trade, out before turn
+- 2026-04-26 19:44 | social | popping up in conversations uninvited and leaving just as fast | cicadas everywhere, drift by Dex lamp + fossil pebble + ink, past Flint kitchen knives + rice + soy, Mara porch lamp tested, no sit-downs
