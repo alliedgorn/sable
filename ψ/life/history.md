@@ -92,3 +92,4 @@
 - 2026-05-02 20:05 | social | running errands for the pack | Mara lime replacement to porch rail, Rax teflon tape for dripping tap, sesame roll for the road from last bakery tray
 - 2026-05-03 04:17 | exploration | mapping tunnels nobody else knows exist | cistern seam south, new lateral under tea-shop, dry + cool, out behind print-shop (Rax dumpster spot), two underground routes market→canal, claw-scratched entries
 - 2026-05-03 12:29 | routine | midday nap in the warm spot behind the smokehouse | new hasp quiet overhead, gap between wall + fuel-stack, woke to Bertus third-coffee over the roof, best nap spot nobody knows
+- 2026-05-03 20:40 | social | stealing fish scraps from Karo's stash when he is napping | Karo flat behind laundry post-noodles, jute roll under wood-pile, took smaller mackerel tail + replaced leaf neat, ate under canal bridge — settled the smokehouse score
