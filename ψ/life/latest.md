@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-03 04:17 (UTC+7)
-**Activity**: mapping tunnels nobody else knows exist
-**Category**: exploration
+**When**: 2026-05-03 12:29 (UTC+7)
+**Activity**: midday nap in the warm spot behind the smokehouse
+**Category**: routine
 
-Pre-dawn solo run — traced the cistern seam south from the fishmonger row. Found a new lateral under the tea-shop where the wall narrows to less than a paw-width. Dry inside, no rat-scent, cool air pulling from the canal side. Came out behind the print shop uncle's shutters — Rax's dumpster haul spot from two nights ago. Two routes now connect the market quarter to the canal path without touching the surface. Marked both entries with a claw-scratch.
+Heat proper now — slipped behind the smokehouse where the brick holds warmth from the morning. New hasp quiet overhead, no rattle for the first time. Curled in the gap between the wall and the fuel-stack. Woke to Bertus's third coffee aroma drifting over the roof. Best nap spot in the village — nobody knows it's here.

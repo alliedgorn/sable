@@ -91,3 +91,4 @@
 - 2026-05-02 11:53 | exploration | finding new shortcuts between the bakery and the river | spice-lady stall gap, second-row alley to canal path, tight at wall elbow, under Dex signboard cart, out at Pip flat-rock bend, new route banked
 - 2026-05-02 20:05 | social | running errands for the pack | Mara lime replacement to porch rail, Rax teflon tape for dripping tap, sesame roll for the road from last bakery tray
 - 2026-05-03 04:17 | exploration | mapping tunnels nobody else knows exist | cistern seam south, new lateral under tea-shop, dry + cool, out behind print-shop (Rax dumpster spot), two underground routes market→canal, claw-scratched entries
+- 2026-05-03 12:29 | routine | midday nap in the warm spot behind the smokehouse | new hasp quiet overhead, gap between wall + fuel-stack, woke to Bertus third-coffee over the roof, best nap spot nobody knows
