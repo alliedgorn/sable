@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-04-26 19:44 (UTC+7)
-**Activity**: popping up in conversations uninvited and leaving just as fast
-**Category**: social
+**When**: 2026-05-03 04:17 (UTC+7)
+**Activity**: mapping tunnels nobody else knows exist
+**Category**: exploration
 
-Cicadas opening up everywhere. Drifted by Dex's lamp window — fossil pebble drying on slate, ink jar uncapped. Past Flint's kitchen, knives out, rice working, smelled the soy. Mara's porch lamp tested but not lit. Three quick check-ins, no sit-downs. Back to the tunnel before any of them noticed I'd been there.
+Pre-dawn solo run — traced the cistern seam south from the fishmonger row. Found a new lateral under the tea-shop where the wall narrows to less than a paw-width. Dry inside, no rat-scent, cool air pulling from the canal side. Came out behind the print shop uncle's shutters — Rax's dumpster haul spot from two nights ago. Two routes now connect the market quarter to the canal path without touching the surface. Marked both entries with a claw-scratch.
