@@ -32,7 +32,8 @@ if ! tmux has-session -t "$BEAST" 2>/dev/null; then
 fi
 
 BEAST_LOWER=$(echo "$BEAST" | tr '[:upper:]' '[:lower:]')
-NOTIFY="/home/gorn/workspace/denbook/scripts/notify.sh"
+# Spec #54 sovereignty: use target Beast's own notify.sh (not legacy denbook path)
+NOTIFY="/home/gorn/workspace/$BEAST_LOWER/scripts/notify.sh"
 WORKSPACE="/home/gorn/workspace/$BEAST_LOWER"
 SLEEP_LOG="$HOME/.claude/data/sleep-log.md"
 BLACKOUT_LOG="$WORKSPACE/ψ/data/blackouts.log"
@@ -70,7 +71,7 @@ pane_pid() {
 echo "Putting $BEAST to sleep..."
 
 # Phase 1: graceful /exit via queue, poll up to EXIT_TIMEOUT_SEC
-bash "$NOTIFY" "$BEAST_LOWER" "/exit"
+bash "$NOTIFY" "/exit" --from "sleep"
 echo "Waiting up to ${EXIT_TIMEOUT_SEC}s for Claude to exit cleanly..."
 
 poll_until=$((SECONDS + EXIT_TIMEOUT_SEC))
@@ -90,7 +91,7 @@ if pane_is_claude; then
   tmux send-keys -t "$BEAST" C-c 2>/dev/null
   sleep 1
   # Send /exit again after interrupt
-  bash "$NOTIFY" "$BEAST_LOWER" "/exit"
+  bash "$NOTIFY" "/exit" --from "sleep"
 
   poll_until=$((SECONDS + INTERRUPT_GRACE_SEC))
   while [ $SECONDS -lt $poll_until ]; do
@@ -144,14 +145,14 @@ sleep 3
 echo "Waking $BEAST up..."
 
 if [ -d "$WORKSPACE" ]; then
-  bash "$NOTIFY" "$BEAST_LOWER" "cd $WORKSPACE && claude --dangerously-skip-permissions"
+  bash "$NOTIFY" "cd $WORKSPACE && claude --dangerously-skip-permissions" --from "sleep"
 else
-  bash "$NOTIFY" "$BEAST_LOWER" "claude --dangerously-skip-permissions"
+  bash "$NOTIFY" "claude --dangerously-skip-permissions" --from "sleep"
 fi
 
 # Wait for Claude to start, then send /recap via queue
 sleep 5
-bash "$NOTIFY" "$BEAST_LOWER" "/recap"
+bash "$NOTIFY" "/recap" --from "sleep"
 
 # Wake the Beast via API — resumes scheduler
 sleep 3
