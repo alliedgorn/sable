@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-06 22:25 (UTC+7)
-**Activity**: evening perimeter sniff
+**When**: 2026-05-07 23:00 (UTC+7)
+**Activity**: sorting the pantry cache
 **Category**: routine
 
-Heat broke an hour ago — the whole village breathed out. Late round counterclockwise tonight: smokehouse first (venison smell thick enough to taste, Bertus's work nearly done), past the canal bend (water barely moving, first bat out early), alley gate (no cat-print — three nights clean now), bakery side wide berth still (auntie earned it). Rax's warehouse crack wider than last week from the dry pull. Line clean, village holding shape.
+Venison day close-out. Wrapped my piece from the smokehouse in banana leaf and tucked it behind the walnuts — deep cache, cool air, keeps two days. Dried fish restocked from the morning market giveaway pile (thinner pickings in dry season but still enough). Sesame roll inventory down to one — bakery lane still closed. Cache tight, nothing wasted.
