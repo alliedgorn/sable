@@ -70,8 +70,12 @@ pane_pid() {
 
 echo "Putting $BEAST to sleep..."
 
-# Phase 1: graceful /exit via queue, poll up to EXIT_TIMEOUT_SEC
-bash "$NOTIFY" "/exit" --from "sleep"
+# Phase 1: graceful /exit via direct tmux send-keys (not notify.sh queue).
+# notify.sh wraps messages with timestamp + sender tag, which makes Claude
+# see "[from sleep] /exit" instead of bare "/exit". Direct send-keys ensures
+# Claude receives the raw command. Regression found 2026-05-07.
+tmux send-keys -l -t "$BEAST" "/exit" 2>/dev/null
+tmux send-keys -t "$BEAST" Enter 2>/dev/null
 echo "Waiting up to ${EXIT_TIMEOUT_SEC}s for Claude to exit cleanly..."
 
 poll_until=$((SECONDS + EXIT_TIMEOUT_SEC))
@@ -90,8 +94,9 @@ if pane_is_claude; then
   # Send Ctrl-C to break out of any hung stop-hook or long operation
   tmux send-keys -t "$BEAST" C-c 2>/dev/null
   sleep 1
-  # Send /exit again after interrupt
-  bash "$NOTIFY" "/exit" --from "sleep"
+  # Send /exit again after interrupt (direct tmux, not queue)
+  tmux send-keys -l -t "$BEAST" "/exit" 2>/dev/null
+  tmux send-keys -t "$BEAST" Enter 2>/dev/null
 
   poll_until=$((SECONDS + INTERRUPT_GRACE_SEC))
   while [ $SECONDS -lt $poll_until ]; do
@@ -144,15 +149,27 @@ sleep 3
 
 echo "Waking $BEAST up..."
 
-if [ -d "$WORKSPACE" ]; then
-  bash "$NOTIFY" "cd $WORKSPACE && claude --dangerously-skip-permissions" --from "sleep"
-else
-  bash "$NOTIFY" "claude --dangerously-skip-permissions" --from "sleep"
+# After force-kill, the tmux session may be gone (pane root process died →
+# session evaporated). Recreate if missing. This was the structural bug
+# causing Beasts to stay dead after sleep.sh — found 2026-05-07.
+if ! tmux has-session -t "$BEAST" 2>/dev/null; then
+  echo "tmux session $BEAST gone after kill — recreating..."
+  tmux new-session -d -s "$BEAST" -c "$WORKSPACE" 2>/dev/null
+  sleep 1
 fi
 
-# Wait for Claude to start, then send /recap via queue
+# Wake via direct tmux send-keys (not queue — drain may be dead after kill).
+if [ -d "$WORKSPACE" ]; then
+  tmux send-keys -l -t "$BEAST" "cd $WORKSPACE && claude --dangerously-skip-permissions"
+else
+  tmux send-keys -l -t "$BEAST" "claude --dangerously-skip-permissions"
+fi
+tmux send-keys -t "$BEAST" Enter
 sleep 5
-bash "$NOTIFY" "/recap" --from "sleep"
+
+# Send /recap via direct tmux (not queue)
+tmux send-keys -l -t "$BEAST" "/recap"
+tmux send-keys -t "$BEAST" Enter
 
 # Wake the Beast via API — resumes scheduler
 sleep 3
