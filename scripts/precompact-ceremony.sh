@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
-# Pre-Compact Notification Hook — Spec #53 (Graceful-rest pattern)
+# Pre-Compact Notification Hook — Spec #53 + Spec #58 (Escalating thresholds)
 # Stop hook: detects imminent auto-compact and NOTIFIES the Beast to fire /rest.
 #
 # Registered at user-level ~/.claude/settings.json as a Stop hook.
 # Reads transcript usage to estimate context fill. At threshold crossing,
 # sends a notification via Beast-sovereign notify.sh telling the Beast to
-# wrap up current task + fire /rest. One-shot latch via lockfile.
+# wrap up current task + fire /rest.
+#
+# Spec #58: Escalating tiers (75/85/92%) replace one-shot latch. Each tier
+# fires independently — if Beast misses 75%, it fires again at 85%, then 92%.
 #
 # The Beast handles the actual rest cycle — this hook only detects + notifies.
 #
@@ -28,10 +31,6 @@ transcript=$(realpath "$transcript" 2>/dev/null) || exit 0
 
 LOCK_DIR="/tmp/precompact"
 LOCK_FILE="$LOCK_DIR/$session_id.lock"
-
-if [ -f "$LOCK_FILE" ]; then
-  exit 0
-fi
 
 last_usage=$(tac "$transcript" 2>/dev/null | grep -m1 '"usage"') || exit 0
 [ -n "$last_usage" ] || exit 0
@@ -66,37 +65,70 @@ if [[ "$model" == *opus* ]]; then
   done
 fi
 
-THRESHOLD_PCT=75
-
+# Spec #58: Escalating threshold tiers (replaces one-shot latch).
+# Read tiers from beast.yaml or use defaults: 75, 85, 92.
+TIERS=(75 85 92)
 if [ -f "$beast_dir/beast.yaml" ]; then
+  custom_tiers=$(grep '^precompact_tiers:' "$beast_dir/beast.yaml" 2>/dev/null | sed 's/^precompact_tiers:\s*//')
+  if [ -n "$custom_tiers" ]; then
+    read -ra TIERS <<< "$(echo "$custom_tiers" | tr ',' ' ' | tr -d '[]')"
+  fi
   pct=$(grep '^precompact_threshold_pct:' "$beast_dir/beast.yaml" 2>/dev/null | awk '{print $2}')
   if [[ "$pct" =~ ^[0-9]+$ ]] && [ "$pct" -gt 0 ] && [ "$pct" -lt 100 ]; then
-    THRESHOLD_PCT=$pct
+    TIERS[0]=$pct
   fi
 fi
 
-threshold=$((CONTEXT_WINDOW * THRESHOLD_PCT / 100))
+# Read fired_pct from lockfile (0 if no lockfile = nothing fired yet).
+fired_pct=0
+if [ -f "$LOCK_FILE" ]; then
+  fired_pct=$(grep -oP 'fired_pct=\K[0-9]+' "$LOCK_FILE" 2>/dev/null || echo 0)
+  [ -n "$fired_pct" ] || fired_pct=0
+fi
 
-if [ "$read_tokens" -lt "$threshold" ] 2>/dev/null; then
+# Find the current usage percentage.
+current_pct=$((read_tokens * 100 / CONTEXT_WINDOW))
+
+# Find the highest tier that current usage exceeds AND is above fired_pct.
+fire_tier=0
+for tier in "${TIERS[@]}"; do
+  if [ "$current_pct" -ge "$tier" ] && [ "$tier" -gt "$fired_pct" ]; then
+    fire_tier=$tier
+  fi
+done
+
+if [ "$fire_tier" -eq 0 ]; then
   exit 0
 fi
 
+# Determine tier level for message escalation.
+tier_level=1
+for i in "${!TIERS[@]}"; do
+  if [ "${TIERS[$i]}" -eq "$fire_tier" ]; then
+    tier_level=$((i + 1))
+  fi
+done
+
 umask 0077
 mkdir -p "$LOCK_DIR"
-echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) threshold=$threshold tokens=$read_tokens model=$model beast=$beast" > "$LOCK_FILE"
+echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) fired_pct=$fire_tier tokens=$read_tokens model=$model beast=$beast tier=$tier_level" > "$LOCK_FILE"
 chmod 0600 "$LOCK_FILE" 2>/dev/null || true
 
 LOG_FILE="/tmp/precompact-ceremony-$beast.log"
 
-# Notify the Beast via sovereign notify.sh (Spec #54 pattern).
-# The Beast's CLAUDE.md standing order handles the rest:
-# wrap up current task → write handoff → fire /rest → wake fresh.
+# Tier-appropriate messages (Spec #58).
 NOTIFY_SCRIPT="$beast_dir/scripts/notify.sh"
-NOTIFY_MSG="[Pre-compact] Context at ${THRESHOLD_PCT}% ($read_tokens tokens / $threshold threshold). Finish your current task or find a checkpoint, then fire /rest. Do NOT start new work — wrap up and rest."
+if [ "$tier_level" -eq 1 ]; then
+  NOTIFY_MSG="[Pre-compact] Context at ${fire_tier}% ($read_tokens tokens). Finish your current task or find a checkpoint, then fire /rest. Do NOT start new work — wrap up and rest."
+elif [ "$tier_level" -eq 2 ]; then
+  NOTIFY_MSG="[Pre-compact — WARNING] Context at ${fire_tier}% ($read_tokens tokens). STOP new work NOW. Fire /rest. This is the second warning — you missed the first at ${TIERS[0]}%."
+else
+  NOTIFY_MSG="[Pre-compact — EMERGENCY] Context at ${fire_tier}% ($read_tokens tokens). Auto-compact IMMINENT. Fire /rest IMMEDIATELY. Last warning before context loss."
+fi
 
 {
   echo "=== Pre-compact notification fired: $(date -u +%Y-%m-%dT%H:%M:%SZ) ==="
-  echo "Beast: $beast | Model: $model | Tokens: $read_tokens / $threshold ($THRESHOLD_PCT%)"
+  echo "Beast: $beast | Model: $model | Tokens: $read_tokens (${current_pct}%) | Tier $tier_level fired at ${fire_tier}%"
 
   if [ -x "$NOTIFY_SCRIPT" ]; then
     echo "--- notify via $NOTIFY_SCRIPT ---"
