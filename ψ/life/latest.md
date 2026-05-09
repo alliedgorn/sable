@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-08 23:35 (UTC+7)
+**When**: 2026-05-10 00:09 (UTC+7)
 **Activity**: evening perimeter sniff
 **Category**: routine
 
-Late round, frogs loud for the first time in a week. Rain gave the whole village back its sound — canal moving again, cistern dripping, frogs thick at the sluice bend. Clockwise tonight: smokehouse hinge loose (Bertus fixing tomorrow, bolt delivered this afternoon), alley gate wet-cat-print confirmed from this morning (single pass, moving through not settling), bakery side still giving wide berth but the air smells like yeast again — auntie baking late. Print-shop gap tighter from the swelling but still passable at ferret-width. Line held, village louder than it has been all week.
+Late round, frogs loud from every direction now. Water changed the whole sound of the village — canal lapping, cistern dripping, drain running, frogs thick. Clockwise: smokehouse hinge quiet (Bertus's fix holding on my bolt, third night), alley gate wet-cat-print fresh (two passes, bigger visitor settled into a pattern now), dye-shop gap ankle-deep (had to hop), bakery side — auntie's lamp off, yeast-smell fading. Print-shop fence barely passable. Line held, village wet and alive.
