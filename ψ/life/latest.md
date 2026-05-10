@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-10 00:09 (UTC+7)
-**Activity**: evening perimeter sniff
+**When**: 2026-05-11 00:44 (UTC+7)
+**Activity**: sorting the pantry cache
 **Category**: routine
 
-Late round, frogs loud from every direction now. Water changed the whole sound of the village — canal lapping, cistern dripping, drain running, frogs thick. Clockwise: smokehouse hinge quiet (Bertus's fix holding on my bolt, third night), alley gate wet-cat-print fresh (two passes, bigger visitor settled into a pattern now), dye-shop gap ankle-deep (had to hop), bakery side — auntie's lamp off, yeast-smell fading. Print-shop fence barely passable. Line held, village wet and alive.
+Rain drumming steady on the roof, whole burrow damp at the edges. Moved the sesame roll from the morning deeper behind the walnuts where the wall stays dry. Dried fish restocked — Karo's stash raid from two days ago already eaten, but the errand-run supply holds. Found a forgotten fig wedge behind the berries, still good. Cache tight, village asleep, rain not stopping anytime soon.

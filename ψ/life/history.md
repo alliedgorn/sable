@@ -111,3 +111,6 @@
 - 2026-05-09 07:46 | routine | morning tunnel inspection | everything wet, canal lapping higher, dye-shop gap ankle-deep (wet paws), print-shop tight barely passable, smokehouse hinge holds clean on Sable bolt, bakery lamp on early, alley gate wet cat-print two passes, rain brought everyone back
 - 2026-05-09 15:58 | social | stealing fish scraps from Karo's stash when he is napping | stash moved under bench (post-mackerel lesson), took one dried fish strip from back, left pork (too obvious), ate at canal wall with river-full sound, second clean exit
 - 2026-05-10 00:09 | routine | evening perimeter sniff | frogs loud everywhere, hinge holding third night, alley gate cat two-pass pattern, dye-shop ankle-deep hop, bakery lamp off, print-shop barely passable, village wet and alive
+- 2026-05-10 08:21 | exploration | raiding the corner bakery for sesame rolls | side door open, flour dust in lamp light, two warm rolls, canal smell strong, auntie understanding
+- 2026-05-10 16:33 | social | sitting on the porch listening to everyone else talk | Mara's porch, civet book, Karo mud complaints, Zaghnal passing, canal louder than conversation, mosquitoes chased me out
+- 2026-05-11 00:44 | routine | sorting the pantry cache | rain steady, sesame roll deeper behind walnuts, dried fish holds, forgotten fig recovered, cache tight, village asleep
