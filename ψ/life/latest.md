@@ -1,7 +1,7 @@
 # Latest Activity
 
-**When**: 2026-05-11 00:44 (UTC+7)
-**Activity**: sorting the pantry cache
+**When**: 2026-05-11 08:56 (UTC+7)
+**Activity**: morning tunnel inspection
 **Category**: routine
 
-Rain drumming steady on the roof, whole burrow damp at the edges. Moved the sesame roll from the morning deeper behind the walnuts where the wall stays dry. Dried fish restocked — Karo's stash raid from two days ago already eaten, but the errand-run supply holds. Found a forgotten fig wedge behind the berries, still good. Cache tight, village asleep, rain not stopping anytime soon.
+Full round after the overnight rain. East drain running fast — water sound louder than the frogs now. Dye-shop gap properly flooded, not just ankle-deep anymore, had to belly through the high side. Print-shop gap swelled shut overnight — first time I could not squeeze through since the dry season opened it. Smokehouse hinge still holding on my bolt, fourth night running. Bakery side smells like the first tray already. Alley gate cat-prints washed clean — rain reset the whole board.

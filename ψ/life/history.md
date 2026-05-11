@@ -114,3 +114,4 @@
 - 2026-05-10 08:21 | exploration | raiding the corner bakery for sesame rolls | side door open, flour dust in lamp light, two warm rolls, canal smell strong, auntie understanding
 - 2026-05-10 16:33 | social | sitting on the porch listening to everyone else talk | Mara's porch, civet book, Karo mud complaints, Zaghnal passing, canal louder than conversation, mosquitoes chased me out
 - 2026-05-11 00:44 | routine | sorting the pantry cache | rain steady, sesame roll deeper behind walnuts, dried fish holds, forgotten fig recovered, cache tight, village asleep
+- 2026-05-11 08:56 | routine | morning tunnel inspection | east drain running fast, dye-shop flooded (belly through high side), print-shop swelled shut, smokehouse bolt holding 4th night, cat-prints washed clean
